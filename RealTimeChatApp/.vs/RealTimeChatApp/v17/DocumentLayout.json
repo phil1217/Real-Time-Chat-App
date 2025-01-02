@@ -1,61 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\",
+  "WorkspaceRootPath": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\realtimechatapp\\wwwroot\\js\\videocall.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|solutionrelative:wwwroot\\js\\videocall.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\realtimechatapp\\views\\videocall\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|solutionrelative:views\\videocall\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\realtimechatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\real time chat app\\realtimechatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\realtimechatapp\\networks\\videocallhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\real time chat app\\realtimechatapp\\wwwroot\\js\\videocall.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|solutionrelative:wwwroot\\js\\videocall.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\real time chat app\\realtimechatapp\\views\\videocall\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|solutionrelative:views\\videocall\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\real time chat app\\realtimechatapp\\networks\\videocallhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|solutionrelative:networks\\videocallhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\realtimechatapp\\networks\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\real time chat app\\realtimechatapp\\networks\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|solutionrelative:networks\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\realtimechatapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\real time chat app\\realtimechatapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\realtimechatapp\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\real time chat app\\realtimechatapp\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|solutionrelative:wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\realtimechatapp\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\real time chat app\\realtimechatapp\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|solutionrelative:libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\realtimechatapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\real time chat app\\realtimechatapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\realtimechatapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\real time chat app\\realtimechatapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\realtimechatapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\real time chat app\\realtimechatapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\realtimechatapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\real time chat app\\realtimechatapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\realtimechatapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\real time chat app\\realtimechatapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\realtimechatapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|c:\\personal\\programming projects\\real time chat app\\realtimechatapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50DFA2DF-7F02-444C-8133-B651BF067F4F}|RealTimeChatApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -66,15 +66,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "VideoCallHub.cs",
-              "DocumentMoniker": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Networks\\VideoCallHub.cs",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Networks\\VideoCallHub.cs",
               "RelativeDocumentMoniker": "Networks\\VideoCallHub.cs",
-              "ToolTip": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Networks\\VideoCallHub.cs",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Networks\\VideoCallHub.cs",
               "RelativeToolTip": "Networks\\VideoCallHub.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -83,24 +83,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "videocall.js",
-              "DocumentMoniker": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\js\\videocall.js",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\videocall.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\videocall.js",
-              "ToolTip": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\js\\videocall.js",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\videocall.js",
               "RelativeToolTip": "wwwroot\\js\\videocall.js",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-12-28T01:37:10.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Views\\VideoCall\\Index.cshtml",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Views\\VideoCall\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\VideoCall\\Index.cshtml",
-              "ToolTip": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Views\\VideoCall\\Index.cshtml",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Views\\VideoCall\\Index.cshtml",
               "RelativeToolTip": "Views\\VideoCall\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -111,9 +111,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "libman.json",
-              "DocumentMoniker": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\libman.json",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\libman.json",
               "RelativeDocumentMoniker": "libman.json",
-              "ToolTip": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\libman.json",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\libman.json",
               "RelativeToolTip": "libman.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -124,9 +124,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -137,9 +137,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\appsettings.json",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\appsettings.json",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -150,9 +150,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -163,9 +163,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -176,9 +176,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -189,9 +189,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -200,13 +200,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Program.cs",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Program.cs",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T14:36:37.219Z",
               "EditorCaption": ""
@@ -215,9 +215,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ChatHub.cs",
-              "DocumentMoniker": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Networks\\ChatHub.cs",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Networks\\ChatHub.cs",
               "RelativeDocumentMoniker": "Networks\\ChatHub.cs",
-              "ToolTip": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Networks\\ChatHub.cs",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Networks\\ChatHub.cs",
               "RelativeToolTip": "Networks\\ChatHub.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -228,9 +228,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "chat.js",
-              "DocumentMoniker": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\js\\chat.js",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\chat.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\chat.js",
-              "ToolTip": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\chat.js",
               "RelativeToolTip": "wwwroot\\js\\chat.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -241,11 +241,11 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-26T08:03:33.333Z",
               "EditorCaption": ""

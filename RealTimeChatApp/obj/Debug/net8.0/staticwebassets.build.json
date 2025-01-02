@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pY6gJ3nhbR0P4YkSqKxz+97bj030FybbgT07/3EgBbE=",
+  "Hash": "hIkoj5+0/gPbRc/VcpPNUMZW3IrsU6g4Yn9RZwPqxlY=",
   "Source": "RealTimeChatApp",
   "BasePath": "_content/RealTimeChatApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "RealTimeChatApp\\wwwroot",
       "Source": "RealTimeChatApp",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RealTimeChatApp.styles.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RealTimeChatApp.styles.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "RealTimeChatApp#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "lPTcXIHP1a9ZwGAyDciY3oE0JgIW1XkPYkAtwp+xziQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RealTimeChatApp.styles.css"
+      "OriginalItemSpec": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RealTimeChatApp.styles.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RealTimeChatApp.bundle.scp.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RealTimeChatApp.bundle.scp.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "RealTimeChatApp#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "lPTcXIHP1a9ZwGAyDciY3oE0JgIW1XkPYkAtwp+xziQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RealTimeChatApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RealTimeChatApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\css\\site.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\favicon.ico",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\js\\chat.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\chat.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "js/chat#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\js\\chat.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "js/signalr/dist/browser/signalr#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "js/signalr/dist/browser/signalr.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -164,10 +164,52 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr-protocol-msgpack.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
+      "BasePath": "_content/RealTimeChatApp",
+      "RelativePath": "js/signalr/dist/browser/signalr-protocol-msgpack#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ojyczpv9cf",
+      "Integrity": "HI8A70lc7XPryU++sCrVCzVbdEyhYIkFhTLrsUnQre8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr-protocol-msgpack.js"
+    },
+    {
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr-protocol-msgpack.min.js",
+      "SourceId": "RealTimeChatApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
+      "BasePath": "_content/RealTimeChatApp",
+      "RelativePath": "js/signalr/dist/browser/signalr-protocol-msgpack.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g86zk893ry",
+      "Integrity": "UA7ElF8P6r58uD2eWmD2/22vrBPi9YnCtfXEcwB2vsU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr-protocol-msgpack.min.js"
+    },
+    {
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\site.js",
+      "SourceId": "RealTimeChatApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -185,10 +227,31 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\videocall.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
+      "BasePath": "_content/RealTimeChatApp",
+      "RelativePath": "js/videocall#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zhzxubshym",
+      "Integrity": "9xswggc4tfRhmxoErJ8Se52IgGseQR4a+s9ST4JVS9g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\videocall.js"
+    },
+    {
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "RealTimeChatApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -206,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -227,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -248,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -269,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -290,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -311,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -353,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -374,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -395,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -416,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -437,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -458,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -479,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -500,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -521,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -542,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -563,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -584,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -605,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -626,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -647,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -668,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -689,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -710,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -731,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -752,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -773,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -794,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -815,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -836,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -857,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -878,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -899,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -920,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -941,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -962,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -983,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1004,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1025,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1046,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1067,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1088,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1109,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1130,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1151,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1172,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1193,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1214,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1235,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1256,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1298,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1319,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1340,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1361,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "_content/RealTimeChatApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1385,7 +1448,7 @@
   "Endpoints": [
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1430,7 +1493,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1467,7 +1530,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1512,7 +1575,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1549,7 +1612,7 @@
     },
     {
       "Route": "js/chat.i73ufj7ed8.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\js\\chat.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\chat.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1594,7 +1657,7 @@
     },
     {
       "Route": "js/chat.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\js\\chat.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\chat.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1631,7 +1694,7 @@
     },
     {
       "Route": "js/signalr/dist/browser/signalr.cqu3aupeo3.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1676,7 +1739,7 @@
     },
     {
       "Route": "js/signalr/dist/browser/signalr.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1713,7 +1776,7 @@
     },
     {
       "Route": "js/signalr/dist/browser/signalr.min.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1750,7 +1813,7 @@
     },
     {
       "Route": "js/signalr/dist/browser/signalr.min.m3i9f6419i.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1794,8 +1857,172 @@
       ]
     },
     {
+      "Route": "js/signalr/dist/browser/signalr-protocol-msgpack.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr-protocol-msgpack.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HI8A70lc7XPryU++sCrVCzVbdEyhYIkFhTLrsUnQre8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 01:31:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HI8A70lc7XPryU++sCrVCzVbdEyhYIkFhTLrsUnQre8="
+        }
+      ]
+    },
+    {
+      "Route": "js/signalr/dist/browser/signalr-protocol-msgpack.min.g86zk893ry.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr-protocol-msgpack.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UA7ElF8P6r58uD2eWmD2/22vrBPi9YnCtfXEcwB2vsU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 01:31:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g86zk893ry"
+        },
+        {
+          "Name": "label",
+          "Value": "js/signalr/dist/browser/signalr-protocol-msgpack.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UA7ElF8P6r58uD2eWmD2/22vrBPi9YnCtfXEcwB2vsU="
+        }
+      ]
+    },
+    {
+      "Route": "js/signalr/dist/browser/signalr-protocol-msgpack.min.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr-protocol-msgpack.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UA7ElF8P6r58uD2eWmD2/22vrBPi9YnCtfXEcwB2vsU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 01:31:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UA7ElF8P6r58uD2eWmD2/22vrBPi9YnCtfXEcwB2vsU="
+        }
+      ]
+    },
+    {
+      "Route": "js/signalr/dist/browser/signalr-protocol-msgpack.ojyczpv9cf.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\signalr\\dist\\browser\\signalr-protocol-msgpack.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HI8A70lc7XPryU++sCrVCzVbdEyhYIkFhTLrsUnQre8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 01:31:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ojyczpv9cf"
+        },
+        {
+          "Name": "label",
+          "Value": "js/signalr/dist/browser/signalr-protocol-msgpack.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HI8A70lc7XPryU++sCrVCzVbdEyhYIkFhTLrsUnQre8="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1832,7 +2059,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1876,8 +2103,90 @@
       ]
     },
     {
+      "Route": "js/videocall.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\videocall.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9xswggc4tfRhmxoErJ8Se52IgGseQR4a+s9ST4JVS9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 04:54:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9xswggc4tfRhmxoErJ8Se52IgGseQR4a+s9ST4JVS9g="
+        }
+      ]
+    },
+    {
+      "Route": "js/videocall.zhzxubshym.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\js\\videocall.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9xswggc4tfRhmxoErJ8Se52IgGseQR4a+s9ST4JVS9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 04:54:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zhzxubshym"
+        },
+        {
+          "Name": "label",
+          "Value": "js/videocall.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9xswggc4tfRhmxoErJ8Se52IgGseQR4a+s9ST4JVS9g="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1914,7 +2223,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1959,7 +2268,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1996,7 +2305,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2041,7 +2350,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2078,7 +2387,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2123,7 +2432,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2160,7 +2469,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2205,7 +2514,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2242,7 +2551,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2287,7 +2596,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2324,7 +2633,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2369,7 +2678,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2406,7 +2715,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2451,7 +2760,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2488,7 +2797,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2533,7 +2842,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2578,7 +2887,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2615,7 +2924,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2652,7 +2961,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2697,7 +3006,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2734,7 +3043,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2779,7 +3088,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2816,7 +3125,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2861,7 +3170,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2898,7 +3207,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2943,7 +3252,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2980,7 +3289,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3017,7 +3326,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3054,7 +3363,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3099,7 +3408,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3144,7 +3453,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3189,7 +3498,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3234,7 +3543,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3271,7 +3580,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3316,7 +3625,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3353,7 +3662,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3390,7 +3699,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3427,7 +3736,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3472,7 +3781,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3517,7 +3826,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3562,7 +3871,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3599,7 +3908,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3644,7 +3953,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3681,7 +3990,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3718,7 +4027,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3755,7 +4064,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3800,7 +4109,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3845,7 +4154,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3882,7 +4191,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3927,7 +4236,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3964,7 +4273,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4009,7 +4318,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4046,7 +4355,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4083,7 +4392,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4128,7 +4437,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4173,7 +4482,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4210,7 +4519,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4255,7 +4564,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4292,7 +4601,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4329,7 +4638,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4374,7 +4683,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4411,7 +4720,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4456,7 +4765,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4501,7 +4810,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4538,7 +4847,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4583,7 +4892,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4620,7 +4929,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4665,7 +4974,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4710,7 +5019,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4747,7 +5056,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4792,7 +5101,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4829,7 +5138,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4866,7 +5175,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4911,7 +5220,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4948,7 +5257,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4993,7 +5302,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5030,7 +5339,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5067,7 +5376,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5112,7 +5421,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5157,7 +5466,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5194,7 +5503,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5239,7 +5548,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5276,7 +5585,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5313,7 +5622,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5350,7 +5659,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5395,7 +5704,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5440,7 +5749,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5485,7 +5794,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5522,7 +5831,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5567,7 +5876,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5612,7 +5921,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5649,7 +5958,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5694,7 +6003,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5739,7 +6048,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5776,7 +6085,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5813,7 +6122,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5858,7 +6167,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5895,7 +6204,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5940,7 +6249,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5977,7 +6286,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6022,7 +6331,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6059,7 +6368,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6096,7 +6405,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6141,7 +6450,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6178,7 +6487,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6223,7 +6532,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6260,7 +6569,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6305,7 +6614,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6350,7 +6659,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6387,7 +6696,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6432,7 +6741,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6469,7 +6778,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6514,7 +6823,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6551,7 +6860,7 @@
     },
     {
       "Route": "RealTimeChatApp.bundle.scp.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RealTimeChatApp.bundle.scp.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RealTimeChatApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6588,7 +6897,7 @@
     },
     {
       "Route": "RealTimeChatApp.k4fg0xae05.bundle.scp.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RealTimeChatApp.bundle.scp.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RealTimeChatApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6633,7 +6942,7 @@
     },
     {
       "Route": "RealTimeChatApp.k4fg0xae05.styles.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RealTimeChatApp.styles.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RealTimeChatApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6678,7 +6987,7 @@
     },
     {
       "Route": "RealTimeChatApp.styles.css",
-      "AssetFile": "C:\\Personal\\Programming Projects\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RealTimeChatApp.styles.css",
+      "AssetFile": "C:\\Personal\\Programming Projects\\Real Time Chat App\\RealTimeChatApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RealTimeChatApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

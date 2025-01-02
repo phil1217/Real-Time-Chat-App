@@ -3,7 +3,10 @@ wwwroot\favicon.ico
 wwwroot\js\chat.js
 wwwroot\js\signalr\dist\browser\signalr.js
 wwwroot\js\signalr\dist\browser\signalr.min.js
+wwwroot\js\signalr\dist\browser\signalr-protocol-msgpack.js
+wwwroot\js\signalr\dist\browser\signalr-protocol-msgpack.min.js
 wwwroot\js\site.js
+wwwroot\js\videocall.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css

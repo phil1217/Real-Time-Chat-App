@@ -331,6 +331,170 @@
       ]
     },
     {
+      "Route": "js/signalr/dist/browser/signalr-protocol-msgpack.js",
+      "AssetFile": "js/signalr/dist/browser/signalr-protocol-msgpack.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HI8A70lc7XPryU++sCrVCzVbdEyhYIkFhTLrsUnQre8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 01:31:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HI8A70lc7XPryU++sCrVCzVbdEyhYIkFhTLrsUnQre8="
+        }
+      ]
+    },
+    {
+      "Route": "js/signalr/dist/browser/signalr-protocol-msgpack.min.g86zk893ry.js",
+      "AssetFile": "js/signalr/dist/browser/signalr-protocol-msgpack.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UA7ElF8P6r58uD2eWmD2/22vrBPi9YnCtfXEcwB2vsU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 01:31:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g86zk893ry"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UA7ElF8P6r58uD2eWmD2/22vrBPi9YnCtfXEcwB2vsU="
+        },
+        {
+          "Name": "label",
+          "Value": "js/signalr/dist/browser/signalr-protocol-msgpack.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/signalr/dist/browser/signalr-protocol-msgpack.min.js",
+      "AssetFile": "js/signalr/dist/browser/signalr-protocol-msgpack.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UA7ElF8P6r58uD2eWmD2/22vrBPi9YnCtfXEcwB2vsU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 01:31:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UA7ElF8P6r58uD2eWmD2/22vrBPi9YnCtfXEcwB2vsU="
+        }
+      ]
+    },
+    {
+      "Route": "js/signalr/dist/browser/signalr-protocol-msgpack.ojyczpv9cf.js",
+      "AssetFile": "js/signalr/dist/browser/signalr-protocol-msgpack.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HI8A70lc7XPryU++sCrVCzVbdEyhYIkFhTLrsUnQre8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 01:31:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ojyczpv9cf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HI8A70lc7XPryU++sCrVCzVbdEyhYIkFhTLrsUnQre8="
+        },
+        {
+          "Name": "label",
+          "Value": "js/signalr/dist/browser/signalr-protocol-msgpack.js"
+        }
+      ]
+    },
+    {
       "Route": "js/signalr/dist/browser/signalr.cqu3aupeo3.js",
       "AssetFile": "js/signalr/dist/browser/signalr.js",
       "Selectors": [],
@@ -573,6 +737,88 @@
         {
           "Name": "label",
           "Value": "js/site.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/videocall.js",
+      "AssetFile": "js/videocall.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9xswggc4tfRhmxoErJ8Se52IgGseQR4a+s9ST4JVS9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 04:54:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9xswggc4tfRhmxoErJ8Se52IgGseQR4a+s9ST4JVS9g="
+        }
+      ]
+    },
+    {
+      "Route": "js/videocall.zhzxubshym.js",
+      "AssetFile": "js/videocall.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9xswggc4tfRhmxoErJ8Se52IgGseQR4a+s9ST4JVS9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 04:54:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zhzxubshym"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9xswggc4tfRhmxoErJ8Se52IgGseQR4a+s9ST4JVS9g="
+        },
+        {
+          "Name": "label",
+          "Value": "js/videocall.js"
         }
       ]
     },

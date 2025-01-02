@@ -33,3 +33,39 @@ C:\Personal\Programming Projects\RealTimeChatApp\obj\Debug\net8.0\refint\RealTim
 C:\Personal\Programming Projects\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.pdb
 C:\Personal\Programming Projects\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.genruntimeconfig.cache
 C:\Personal\Programming Projects\RealTimeChatApp\obj\Debug\net8.0\ref\RealTimeChatApp.dll
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\bin\Debug\net8.0\appsettings.json
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\bin\Debug\net8.0\libman.json
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\bin\Debug\net8.0\RealTimeChatApp.staticwebassets.runtime.json
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\bin\Debug\net8.0\RealTimeChatApp.staticwebassets.endpoints.json
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\bin\Debug\net8.0\RealTimeChatApp.exe
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\bin\Debug\net8.0\RealTimeChatApp.deps.json
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\bin\Debug\net8.0\RealTimeChatApp.runtimeconfig.json
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\bin\Debug\net8.0\RealTimeChatApp.dll
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\bin\Debug\net8.0\RealTimeChatApp.pdb
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.AssemblyInfoInputs.cache
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.AssemblyInfo.cs
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.csproj.CoreCompileInputs.cache
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.RazorAssemblyInfo.cache
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.RazorAssemblyInfo.cs
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.sourcelink.json
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\scopedcss\bundle\RealTimeChatApp.styles.css
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\scopedcss\projectbundle\RealTimeChatApp.bundle.scp.css
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\staticwebassets\msbuild.RealTimeChatApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\staticwebassets\msbuild.RealTimeChatApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\staticwebassets\msbuild.build.RealTimeChatApp.props
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RealTimeChatApp.props
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RealTimeChatApp.props
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.dll
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\refint\RealTimeChatApp.dll
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.pdb
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.genruntimeconfig.cache
+C:\Personal\Programming Projects\Real Time Chat App\RealTimeChatApp\obj\Debug\net8.0\ref\RealTimeChatApp.dll

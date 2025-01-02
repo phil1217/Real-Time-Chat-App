@@ -10,5 +10,15 @@
         "dist/browser/signalr.min.js"
       ]
     }
+  ,
+{
+  "provider": "unpkg",
+  "library": "@microsoft/signalr-protocol-msgpack@6.0.6",
+  "destination": "wwwroot/lib/microsoft/signalr-protocol-msgpack/",
+  "files": [
+    "dist/browser/signalr-protocol-msgpack.js",
+    "dist/browser/signalr-protocol-msgpack.min.js"
   ]
+}
+]
 }
